@@ -1,9 +1,10 @@
-site_name: deTribes documentation
+site_name: Detribes documentation
 nav:
   - index.md
+  - UserGuide.md
   - Lightpaper:
       - Overview: Lightpaper/Overview.md
       - Architecutre: Lightpaper/Architecture.md
-      - Tribe: Lightpaper/Tribe.md
+      - Detribe: Lightpaper/Detribe.md
 theme:
   name: material

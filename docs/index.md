@@ -10,4 +10,4 @@ Blockchain is a technology for disintermediation. It is possible to remove the u
 
 Facebook shouldn’t sell your data without paying you. YouTube shouldn’t get paid more for advertising than you do. Twitter shouldn’t be able to ban you or block your tweets because they disagree with you.
 
-This is why we have created deTrbies. A web 3.0 technology with the promise of data sovereignty. You control the data you create. Your content, your value.
+This is why we have created Detrbies. A web 3.0 technology with the promise of data sovereignty. You control the data you create. Your content, your value.
